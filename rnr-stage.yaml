@@ -1,8 +1,6 @@
 
 yaml_version: 1
 stage: integration
-
-stage: integration
 modules:
   if_stage:
     source_files: [IF_Stage/if_stage.sv]
